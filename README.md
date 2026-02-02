@@ -6,7 +6,7 @@ A dynamic, single-page personal research portfolio for a Robotics Engineer, buil
 
 Prerequisites
 
-Node.js 18+ is installed on your machine.
+Node.js 18+ installed on your machine.
 
 A code editor (VS Code recommended).
 
@@ -18,14 +18,17 @@ git clone [https://github.com/tarannum-perween/robotics-portfolio.git](https://g
 cd robotics-portfolio
 
 
+
 Install Dependencies:
 
 npm install
 
 
+
 Start Development Server:
 
 npm run dev
+
 
 
 Visit: http://localhost:5173
@@ -45,6 +48,7 @@ Visit: http://localhost:5173
 └── vite.config.js            # Vite configuration
 
 
+
 ✏️ Updating Content
 
 Unlike static site generators that use separate Markdown files, this portfolio is a focused Single Page Application. Content is managed directly within the component state for maximum flexibility.
@@ -62,6 +66,7 @@ To add a new role, open src/App.jsx and locate the Experience or Education compo
 }
 
 
+
 Projects
 
 To add a new project, locate the Projects component in src/App.jsx and add to the projects array:
@@ -76,6 +81,7 @@ To add a new project, locate the Projects component in src/App.jsx and add to th
 }
 
 
+
 🚀 Deployment
 
 GitHub Pages (Automated)
@@ -88,10 +94,12 @@ Ensure the homepage field matches your GitHub URL:
 "homepage": "[https://tarannum-perween.github.io/robotics-portfolio](https://tarannum-perween.github.io/robotics-portfolio)",
 
 
+
 Deploy:
 Run the deployment script in your terminal:
 
 npm run deploy
+
 
 
 This command builds the project and pushes the dist folder to a gh-pages branch on your repository.
@@ -120,3 +128,5 @@ LinkedIn: Profile
 GitHub: tarannum-perween
 
 YouTube: Channel
+
+Website: tarannum-perween.github.io/robotics-portfolio
