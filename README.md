@@ -5,7 +5,7 @@ This site showcases robotics, perception, and autonomous systems projects throug
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live 
 
 🔗 **Portfolio:**  
 https://tarannum-perween.github.io/robotics-portfolio
