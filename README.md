@@ -8,7 +8,7 @@ This site showcases robotics, perception, and autonomous systems projects throug
 ## 🚀 Live 
 
 🔗 **Portfolio:**  
-https://tarannum-perween.github.io/robotics_portfolio
+[https://tarannum-perween.github.io/robotics_portfolio/](https://tarannum-perween.github.io/tarannum_portfolio/)
 
 ---
 
@@ -45,7 +45,7 @@ Make sure you have:
 ## 🌐 Access
 
 🔗 **Live Site:**  
-https://tarannum-perween.github.io/robotics_portfolio
+[https://tarannum-perween.github.io/robotics_portfolio/](https://tarannum-perween.github.io/tarannum_portfolio/)
 
 ---
 
