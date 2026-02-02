@@ -46,7 +46,6 @@ Make sure you have:
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/tarannum-perween/robotics-portfolio.git
 cd robotics-portfolio
 Install Dependencies
