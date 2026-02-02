@@ -45,6 +45,7 @@ Make sure you have:
 ## ⚡ Quick Start
 
 ### Clone the Repository
+
 ```bash
 git clone https://github.com/tarannum-perween/robotics-portfolio.git
 cd robotics-portfolio
@@ -109,17 +110,20 @@ Push the dist/ folder to the gh-pages branch
 
 Publish your site automatically
 
-3. Access
-Your site will be live at:
+---
 
+## 🌐 Access
+
+🔗 **Live Site:**  
 https://tarannum-perween.github.io/robotics-portfolio
-📬 Contact
-Email: perwe003@umn.edu
 
-LinkedIn: https://www.linkedin.com
+---
 
-GitHub: https://github.com/tarannum-perween
+## 📬 Contact
 
-YouTube: https://www.youtube.com
+- **Email:** [perwe003@umn.edu](mailto:perwe003@umn.edu)  
+- **LinkedIn:** [https://www.linkedin.com](https://www.linkedin.com)  
+- **GitHub:** [https://github.com/tarannum-perween](https://github.com/tarannum-perween)  
+- **YouTube:** [https://www.youtube.com](https://www.youtube.com)  
+- **Website:** [https://tarannum-perween.github.io/robotics-portfolio](https://tarannum-perween.github.io/robotics-portfolio)
 
-Website: https://tarannum-perween.github.io/robotics-portfolio
