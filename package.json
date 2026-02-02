@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tarannum-perween.github.io/robotics-portfolio",
+  "homepage": "https://tarannum-perween.github.io/tarannum_portfolio",
   "name": "my-robotics-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",   
-    "deploy": "gh-pages -d dist"    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.563.0",
