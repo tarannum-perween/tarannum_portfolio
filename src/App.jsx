@@ -746,7 +746,7 @@ const Projects = () => {
       desc: "Built an autonomous mobile robot with ultrasonic and LiDAR sensors. Complemented with custom path-planning algorithms for smooth navigation in cluttered environments.",
       color: "border-pink-500",
       // Corrected relative path format and added fallback logic in render
-      demo: "Obs_avoid.jpg",
+      demo: "Obs_avoid.png",
       link: "https://placehold.co/600x340/0f172a/ec4899?text=Obstacle+Avoidance+Demo"
     },
     {
